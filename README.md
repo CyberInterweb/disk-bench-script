@@ -3,6 +3,6 @@ Made by Thomas Castleman of DraugerOS.org for Swivro.
 
 ## Get Started
 ```
-wget example.sh
-chmod +x example.sh
-./example.sh
+wget https://raw.githubusercontent.com/CyberInterweb/disk-bench-script/main/disk-bench.sh
+chmod +x disk-bench.sh
+./disk-bench.sh
